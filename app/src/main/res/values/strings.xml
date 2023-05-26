@@ -319,7 +319,7 @@
     <string name="anilist">Anilist</string>
     <string name="account_help">How does this work\?</string>
     <string name="full_account_help">
-        Saikou dalah aplikasi berbasis Anilist. Jadi, untuk menyinkronkan dengan akun MAL, dibutuhkan untuk login ke akun Anilist.
+        Saikou adalah aplikasi berbasis Anilist. Jadi, untuk menyinkronkan dengan akun MAL, dibutuhkan untuk login ke akun Anilist.
         \nSetelah login dengan akun Anilist dan MAL, aplikasi akan memperbarui akun MAL anda secara otomatis, ketika:
         \n- Add a new Media
         \n- Edit a Media
